@@ -1,6 +1,8 @@
 
 # <span style="color:rgb(213,80,0)">Low\-code data analysis in MATLAB</span>
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mblaho/LowCode_workshop)
+
 This workshop focuses on introducing intaractive MATLAB tools for data analysis. We will:
 
 -  Load data from various sources 
